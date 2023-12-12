@@ -4,7 +4,7 @@
 ![image](https://github.com/calfav/King-County-House-Sales-Analysis-Tableau/blob/main/KING%20COUNTY%2C%20WAHINGTON%20SALES%20DASHBOARD.JPG)
 
 
-**Data** - Hiuse Data with over 21000 rows from the year 1900 to 2015.
+**Data** - House Data with over 21000 rows from the year 1900 to 2015.
 
 **Data Cleaning & Analysis** - Microsoft Excel
 
@@ -12,9 +12,9 @@
 
 ## Exploratory Data Analysis
 
-How does the daily average house sales price vary over different calendar periods?
-Are specific months or seasons exhibiting noticeable peaks or troughs in house prices?
-What is the overall distribution of house prices in King County?
+-  How does the daily average house sales price vary over different calendar periods?
+-  Are specific months or seasons exhibiting noticeable peaks or troughs in house prices?
+-  What is the overall distribution of house prices in King County?
 Can we identify any clusters or trends within the histogram of house prices?
 What is the most common bedroom and bathroom configuration in King County?
 Do certain configurations tend to be associated with higher or lower house prices?
